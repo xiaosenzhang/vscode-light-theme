@@ -5,7 +5,7 @@
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](preview.jpg)
 
 ## Installation
 
