@@ -4,10 +4,10 @@
   "colors": {
     "editor.background": "#fff",
     "editor.foreground": "#000000",
-    "tab.inactiveBackground": "#f6f8fa",
+    "tab.inactiveBackground": "#f5f8fa",
     "tab.inactiveForeground": "#333333",
     "tab.activeBorder": "#fff",
-    "tab.border": "#f6f8fa",
+    "tab.border": "#f0f0f0",
     "sideBar.background": "#ffffff",
     "sideBar.foreground": "#000000",
     "sideBar.border": "#fff",
