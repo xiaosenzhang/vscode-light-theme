@@ -1,12 +1,12 @@
 {
-    "name": "vscode-ideal-theme",
-    "displayName": "IDEA like light Theme",
+    "name": "vscode-light-theme",
+    "displayName": "light Theme",
     "description": "",
-    "version": "0.0.3",
-    "publisher": "karsany",
+    "version": "0.0.4",
+    "publisher": "zhangxiaosen",
     "preview": true,
     "repository": {
-        "url": "https://github.com/karsany/vscode-ideal-theme"
+        "url": "https://github.com/xiaosenzhang/vscode-light-theme"
     },
     "engines": {
         "vscode": "^1.28.0"
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "IDEA like light Theme",
+                "label": "light Theme",
                 "uiTheme": "vs",
                 "path": "./themes/ideal-color-theme.json"
             }
