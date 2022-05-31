@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "light Theme",
+                "label": "light Theme by xiaosen",
                 "uiTheme": "vs",
                 "path": "./themes/ideal-color-theme.json"
             }
