@@ -10,7 +10,7 @@
     "tab.border": "#f0f0f0",
     "sideBar.background": "#ffffff",
     "sideBar.foreground": "#000000",
-    "sideBar.border": "#fff",
+    "sideBar.border": "#ddd",
     "sideBarSectionHeader.background": "#f6f8fa",
     "editorGutter.background": "#f6f8fa",
     "editorLineNumber.foreground": "#c1c1c1",
@@ -18,7 +18,7 @@
     "editor.selectionHighlightBackground": "#F6EBBC",
     "activityBar.background": "#f6f8fa",
     "activityBar.foreground": "#000000",
-    "activityBar.border": "#fff",
+    "activityBar.border": "#f6f8fa",
     "statusBar.background": "#f6f8fa",
     "statusBar.foreground": "#000000",
     "statusBar.border": "#f6f8fa"
