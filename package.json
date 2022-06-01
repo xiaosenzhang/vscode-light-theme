@@ -11,6 +11,7 @@
     "engines": {
         "vscode": "^1.28.0"
     },
+    "icon": "themIcon.png",
     "categories": [
         "Themes"
     ],
