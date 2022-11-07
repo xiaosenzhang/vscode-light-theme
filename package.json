@@ -1,6 +1,6 @@
 {
     "name": "vscode-light-theme",
-    "displayName": "light Theme by xiaosen",
+    "displayName": "light Theme By XS",
     "description": "",
     "version": "0.0.4",
     "publisher": "zhangxiaosen",
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "light Theme by xiaosen",
+                "label": "light Theme By XS",
                 "uiTheme": "vs",
                 "path": "./themes/ideal-color-theme.json"
             }
