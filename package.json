@@ -5,6 +5,9 @@
     "version": "0.0.4",
     "publisher": "zhangxiaosen",
     "preview": true,
+    "scripts": {
+      "build": "vsce package"
+    },
     "repository": {
         "url": "https://github.com/xiaosenzhang/vscode-light-theme"
     },
